@@ -26,11 +26,6 @@ https://www.facebook.com/sharoa0113
 틱톡
 https://vt.tiktok.com/ZSd6raveY/
 
-네이버 카페
-[샤로아의 퍼리 소통방] 네이버 카페로 초대합니다.
-http://naver.me/Ge3iT8ge
-From 샤로아
-
 네이버 블로그
 https://m.blog.naver.com/beulladiseu
 
