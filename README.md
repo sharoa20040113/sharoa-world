@@ -3,7 +3,7 @@
 2021년 3월 5일부터 정규시리즈, 한국시리즈 우승하는 그날까지!
 
 카톡
-https://open.kakao.com/me/kusire
+https://open.kakao.com/o/slR132ne
 
 트위터 
 https://twitter.com/sh_ar_oa?t=lN79lxIHFhRPYgXoB8Ggxg&s=09
