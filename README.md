@@ -6,7 +6,7 @@
 https://open.kakao.com/o/slR132ne
 
 트위터 
-https://twitter.com/sh_ar_oa?t=lN79lxIHFhRPYgXoB8Ggxg&s=09
+https://twitter.com/ssglanders2022?t=lN79lxIHFhRPYgXoB8Ggxg&s=09
 
 밴드
 '샤로아의 퍼리 소통방' 밴드로 초대합니다.
