@@ -4,13 +4,73 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>공지사항</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        li{
+            list-style-type: none;
+            float: left;
+        }
+        #header{
+            height: 180px;
+            background-color: #f6f5ef;
+            position: relative;
+        }
+        #logo{
+            top: 30px;
+            left: 20px;
+            border: 1px solid red;
+            position: relative;
+            background-color: #443e58;
+        }
+        #top{
+            top: 40px;
+            right: 200px;
+            position: absolute;
+        }
+        #top li{
+            width: 100px;
+            text-align: center;
+        }
+        #menu{
+            height: 40px;
+            padding-top: 15px;
+            background-color: #443e58;
+            color: white;
+            font-size: 20px;
+            border: 1px solid red;
+            top: 50px;
+            position: relative;
+        }
+        #menu li{
+            width: 100px;
+            text-align: center;
+            margin: 0 20px;
+        }
+        #menu li:nth-child(2n){
+            width: 20px;
+        }
+    </style>
 </head>
 <body>
-    <ul>
-        <li>개설일: 2022-06-18</li>
-        <li>SNS 링크: </li>
-        <li></li>
-    </ul>  
+    <div id="header">
+        <img src="logo.png" alt="" id="logo">
+        <ul id="top">
+            <li><a href="2.html" target="_blank"> 로그인</a></li>
+            <li><a href="4.html" target="_blank"> 회원가입</a></li>
+            <li><a href="공지사항.html" target="_blank">공지사항</a></li>
+        </ul>
+        <ul id="menu">
+            <li>HTML</li>           <li>|</li>
+            <li>CSS</li>            <li>|</li>
+            <li>Javascript</li>     <li>|</li>
+            <li>Python</li>         <li>|</li>
+            <li>PHP</li>            <li>|</li>
+            <li>Java</li>           <li>|</li>
+        </ul>
+    </div>    
 </body>
 </html>
