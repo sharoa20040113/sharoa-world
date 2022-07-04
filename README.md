@@ -15,7 +15,7 @@ https://band.us/n/afa776SaNfbdP
 From Sharoa
 
 디스코드 
-https://discord.gg/aTvHGUGU7f
+https://discord.gg/GCXFu7q38E
 
 페이스북 
 https://www.facebook.com/sharoa0113
