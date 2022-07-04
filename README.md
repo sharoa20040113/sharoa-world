@@ -1,33 +1,22 @@
 <h1><a href="https://sharoa20040113.github.io/OC/1.html">https://sharoa20040113.github.io/OC/1.html</a></h1>
-
 <h1>2021년 3월 5일부터 정규시리즈, 한국시리즈 우승하는 그날까지!</h1>
 
-카톡
-https://open.kakao.com/o/slR132ne
-
-트위터 
-https://twitter.com/ssglanders2022?t=lN79lxIHFhRPYgXoB8Ggxg&s=09
-
-밴드
-https://band.us/n/afa776SaNfbdP
-
-디스코드 
-https://discord.gg/GCXFu7q38E
-
-페이스북 
-https://www.facebook.com/sharoa0113
-
-인스타그램
-https://www.instagram.com/sharoa0113/
-
-틱톡
-https://vt.tiktok.com/ZSd6raveY/
-
-네이버 블로그
-https://m.blog.naver.com/beulladiseu
-
-티스토리 
-https://sharoadrawing.tistory.com/m
-
-유튜브 
-https://youtube.com/channel/UCZGjWJ0YzxaWN9o7ifw1UoA
+<a href="https://open.kakao.com/o/slR132ne" target="_blank" rel="noopener noreferrer">카톡</a><br>
+     
+<a href="https://twitter.com/ssglanders2022?t=lN79lxIHFhRPYgXoB8Ggxg&s=09" target="_blank" rel="noopener noreferrer">트위터</a><br>
+    
+<a href="https://band.us/n/afa776SaNfbdP" target="_blank" rel="noopener noreferrer">밴드</a><br>
+     
+<a href="https://discord.gg/GCXFu7q38E" target="_blank" rel="noopener noreferrer">디스코드</a><br>
+     
+<a href="https://www.facebook.com/sharoa0113" target="_blank" rel="noopener noreferrer">페이스북</a><br>
+    
+<a href="https://www.instagram.com/sharoa0113/" target="_blank" rel="noopener noreferrer">인스타그램</a><br>
+    
+<a href="https://vt.tiktok.com/ZSd6raveY/" target="_blank" rel="noopener noreferrer">틱톡</a><br>
+    
+<a href="https://m.blog.naver.com/beulladiseu" target="_blank" rel="noopener noreferrer">네이버 블로그</a><br>
+     
+<a href="https://sharoadrawing.tistory.com/m" target="_blank" rel="noopener noreferrer">티스토리</a><br>
+    
+<a href="https://youtube.com/channel/UCZGjWJ0YzxaWN9o7ifw1UoA" target="_blank" rel="noopener noreferrer">유튜브</a><br>
