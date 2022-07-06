@@ -1,4 +1,4 @@
-<h1><a href="https://sharoa20040113.github.io/OC/로그인전.html">샤로아 세상</a></h1>
+<h1><a href="https://sharoa20040113.github.io/Character/로그인전.html">샤로아 세상</a></h1>
 <h1>2021년 3월 5일부터 정규시리즈, 한국시리즈 우승하는 그날까지!</h1>
 
 <a href="https://open.kakao.com/o/slR132ne" target="_blank" rel="noopener noreferrer">카톡</a><br>
